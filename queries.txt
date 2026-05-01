@@ -1,0 +1,8 @@
+1)	How Many People Are There In Each Department ?
+2)	Gender Distribution By Department
+3)	Age Spread Of Our Staff ( Histogram )
+4)	Min , Max , Avg Salary Of Each department
+5)	Top Earners In Each Country
+6)	Performance Spread ( sort by columns )
+7)	Company Growth Trend
+8)	Employee Filter ( Sort By First Letter )
